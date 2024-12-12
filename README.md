@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the cutting edge of
 
 ## 🌟 About Me
 
-- 🚀 **Interests:** Artificial Intelligence, Web3, Quantum Computing
+- 🚀 **Interests:** Artificial Intelligence, Web3, Quantum Computing, Biotech
 - 🎯 **Focus:** Building impactful solutions and learning about groundbreaking advancements.
 - 🛠️ **Skills:** Machine Learning, Software Development, Research, and more.
 
